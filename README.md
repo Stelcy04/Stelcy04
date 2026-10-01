@@ -38,7 +38,7 @@ Quantitative research on financial deepening and industrial GDP in Nicaragua. PC
 | Area | Tools |
 |---|---|
 | Data & Analytics | SQL · Excel · Power BI · R/RStudio · Python · Econometrics · Statistics |
-| Databases | Mysql · Relational database design |
+| Databases | PostgreSQL · Relational database design |
 | Testing | Playwright · TypeScript · Manual testing · Test case design |
 | Development | Python · FastAPI · REST APIs · Git/GitHub |
 
